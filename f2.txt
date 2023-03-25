@@ -1,2 +1,1 @@
 This is feature 2.
-add new feature.
